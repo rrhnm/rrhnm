@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F74CDB&random=false&width=400&lines=Hello+There!!;+I'm+Raihan;" />
 </h1>
 
-<h3 align="center"> I'm currently a Informatics Engineering student at University of Lampung and I have interest in Networking and AI.</h3>
+<h3 align="center"> I'm currently a Informatics Engineering student at University of Lampung and I have interest in Networking, AI, and General Tech-Related.</h3>
 
 <br>
 <br>
