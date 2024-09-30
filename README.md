@@ -17,7 +17,6 @@
   ⚡ Fun fact: I like gaming. </p>
 
 <br>
-<br>
 
 <div align="center">
     <h2>🌐 Connect With Me 🌐</h2>
